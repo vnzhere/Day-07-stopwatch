@@ -94,29 +94,3 @@ No installation required.
 ## 👩‍💻 Author
 
 Built as a frontend practice project to strengthen understanding of JavaScript timers and DOM manipulation.
-
----⏱️ Stopwatch Web App
-
-A simple and responsive Stopwatch Web Application built using HTML, CSS, and JavaScript.
-This project demonstrates core JavaScript concepts like DOM manipulation, timers, and event handling.
-
-⸻
-
-🚀 Features
-	•	▶️ Start the stopwatch
-	•	⏸ Pause functionality
-	•	🔄 Reset to zero
-	•	🏁 Lap time tracking
-	•	🎨 Clean and modern UI
-	•	📱 Responsive design
-
-⸻
-
-🛠️ Tech Stack
-	•	HTML – Structure
-	•	CSS – Styling (Gradient UI + Card Design)
-	•	JavaScript – Functionality & Logic
-
-⸻
-
-📂 Project Structure
