@@ -90,7 +90,3 @@ A centered card layout displaying:
 No installation required.
 
 ---
-
-## 👩‍💻 Author
-
-Built as a frontend practice project to strengthen understanding of JavaScript timers and DOM manipulation.
